@@ -1,2 +1,3 @@
 # Redme
-Git guide
+Git guide is complete!
+Complete with commets!
