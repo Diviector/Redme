@@ -1,2 +1,2 @@
 # Redme
-Git guide
+Git guide is complete!
